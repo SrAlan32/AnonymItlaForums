@@ -51,7 +51,7 @@ AnonymItlaForums/
 git clone https://github.com/SrAlan32/AnonymItlaForums
 
 # Entrar al directorio
-cd anonymitla-forums
+cd AnonymItlaForums
 
 # Instalar dependencias
 npm install
